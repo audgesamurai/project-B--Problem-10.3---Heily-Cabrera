@@ -8,7 +8,7 @@ Then fill a vector of Appointment* with a mixture of appointments.
 Have the user enter a date and print out all appointments that happen on that date. **/
 
 //Programmer: Heily Cabrera
-//Tester: Audrey Tapia
+//Tester: Audrey Tapia (TESTED)
 
 // Group Project B //
 /***** Members *****/
